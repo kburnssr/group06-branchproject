@@ -1,0 +1,11 @@
+*{
+    background-color: whitesmoke;
+}
+body{
+    text-align: center;
+}
+
+.imgContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
